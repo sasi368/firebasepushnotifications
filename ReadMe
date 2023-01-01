@@ -1,0 +1,8 @@
+Required Npms
+"@react-native-async-storage/async-storage": "^1.17.11",
+"@react-native-firebase/app": "^16.5.0",
+"@react-native-firebase/messaging": "^16.5.0",
+
+serverkey and fcm token to backend
+
+https://testfcm.com/ test using this site
